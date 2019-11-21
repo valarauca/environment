@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Value","Value contains the pre & post encoding information about a value."]],"struct":[["Envir","Envir is a representation of the environment. But a handful of conventions and opinions are applied to the data which is found within the environment."]]});
